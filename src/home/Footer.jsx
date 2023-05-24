@@ -55,14 +55,14 @@ export const Footer = () => {
           className="text-center p-3"
           style={{ background: "rgba(0, 0, 0, 0.2)" }}
         >
-          © 2020 Copyright:
+          © 2023 Copyright:
           <a
             className="text-white"
-            href="https://mdbootstrap.com/"
-            rel="noopener noreferrer"
-            target="_blank"
+            // href="https://mdbootstrap.com/"
+            // rel="noopener noreferrer"
+            // target="_blank"
           >
-            MDBootstrap.com
+            cesar ospina
           </a>
         </div>
       </footer>
